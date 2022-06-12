@@ -38,7 +38,7 @@ form td:last-child {
 }
 
 form * {
-  font-size: 28px;
+  font-size: 16px;
 }
 .pagination{
   display: flex;
