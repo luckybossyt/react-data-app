@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import createPagination from "./components/createPagination";
 import axios from "axios"
 import PostForm from "./components/PostForm"
 import "./App.css";
